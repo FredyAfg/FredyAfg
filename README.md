@@ -41,7 +41,7 @@ Soy **Data Scientist** con orientación al mundo empresarial y con más de dos a
 - **Gestión y Producción de Cine y TV** - Universidad Manuela Beltrán
 
 ### 📫 Contacto
-- **Correo electrónico**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
+- **Correo electrónico**: [nicolasfajardodaza@gmail.com](fredya.fernandez22@gmail.com)
 - **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolás-fajardo-daza)
 
 ---
