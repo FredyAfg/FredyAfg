@@ -30,7 +30,7 @@ Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de
 
 ### 🚀 Proyectos Destacados
 - **Predicción de Demanda de Producción y Exportación de Café:** 
-  ![Predicción de Demanda de Café](https://your-image-url-here.com)
+  ![Predicción de Demanda de Café](https://drive.google.com/file/d/1xdqaoX9lhgPLvdsOpMZwTX-UPLSONxX2/view?usp=sharing)
   Proyecto centrado en predecir la demanda utilizando datos históricos, variables económicas y climáticas. El modelo emplea LSTM para capturar tendencias a largo plazo y mejorar la precisión de las predicciones.
 
 ### 📊 Estadísticas de GitHub
