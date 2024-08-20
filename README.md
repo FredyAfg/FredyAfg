@@ -16,7 +16,7 @@ Un proyecto de predicción de la demanda de producción y exportación de café 
 - **Modeling**: Aplicación de modelos LSTM para la predicción.
 - **Visualization**: Gráficos que muestran la comparación entre las predicciones y los datos reales.
 
-![Predicción de Demanda](link-to-image) 
+![Predicción de Demanda](./ruta/a/la/imagen-generada.png)
 
 ### 📈 Skills
 - Data Analysis
@@ -43,5 +43,6 @@ I'm open to collaborating on projects and exploring new technologies. Feel free 
 ---
 
 Thanks for visiting my profile! Explore my repositories and connect with me if you have any questions or collaboration opportunities.
+
 
 
