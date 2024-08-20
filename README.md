@@ -13,7 +13,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-%23F7E2B1.svg?style=for-the-badge&logo=sql&logoColor=black)
 
  ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white) 
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+
  ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
