@@ -2,47 +2,64 @@
 
 Welcome to my GitHub profile! I'm an industrial engineer transitioning into data science and software development.
 
-### 📚 About Me
-- **Current Role:** Junior Data Analyst
-- **Learning:** Software Development & Data Analysis
-- **Background:** Industrial Engineering
+### 🚀 About Me
+Soy **Data Scientist** con orientación al mundo empresarial y con más de dos años de experiencia en la resolución de problemas mediante la analítica de datos. Actualmente, me encuentro en formación como **Ingeniero de Datos en la nube ☁️** y liderando un proyecto de migración de datos para una gran compañía de seguros en Colombia.
 
-### 🚀 Projects
-#### [Predicción de Demanda de Café Colombiano](link-to-project)
-Un proyecto de predicción de la demanda de producción y exportación de café colombiano usando técnicas de inteligencia artificial. Este proyecto incluye la implementación de modelos de machine learning para analizar y predecir la demanda de café.
+### 📈 Habilidades y Tecnologías
+- **Lenguajes**: Python, SQL
+- **Tecnologías**: Google Cloud Platform (GCP), PostgreSQL, Apache Solr, Linux
+- **Machine Learning**: Redes Neuronales, Regresión, Clustering
+- **Visualización de Datos**: Metabase
+- **Metodologías**: Agile, DevOps
+- **Certificaciones**:
+  - Fundamentos de Google Cloud: infraestructura básica - Coursera (2024)
+  - Dominio de la ciencia de datos de Python - DS4B (2023)
+  - Curso avanzado de estadística bayesiana con Python
 
-**Key Features:**
-- **Data Analysis**: Exploración y preparación de datos.
-- **Modeling**: Aplicación de modelos LSTM para la predicción.
-- **Visualization**: Gráficos que muestran la comparación entre las predicciones y los datos reales.
+### 🏢 Experiencia Profesional
 
-![Predicción de Demanda](./ruta/a/la/imagen-generada.png)
+#### **Empresa 1 (FEB-2023 - NOV-2023)**
+- **Proyecto POSITIVA**: Transformación y análisis de datos para el sector de Recaudo y Cartera, desarrollo de modelos de Machine Learning.
+- **Proyecto POLITICA**: Análisis de sentimientos y estadísticas descriptivas basadas en datos de redes sociales.
+- **Proyecto CNE**: Visualización de datos financieros en Metabase.
 
-### 📈 Skills
-- Data Analysis
-- Python, SQL, R
-- Machine Learning
-- Software Development
+#### **Empresa 2 (NOV-2023 - Actualidad)**
+- **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP [80 Terabytes] automatizado con Python y PostgreSQL, versionamiento en Azure DevOps y GitHub, e indexado en Apache Solr.
 
-### 🌱 Currently Learning
-- Advanced Data Analysis Techniques
-- Software Development Best Practices
-- New Data Science Tools and Frameworks
+### 📊 Proyectos Destacados
 
-### 🤝 Let's Collaborate
-I'm open to collaborating on projects and exploring new technologies. Feel free to reach out!
+- **Predicción de Demanda de Café Colombiano**: Implementación de modelos LSTM para predecir la producción y exportación de café colombiano, usando técnicas avanzadas de machine learning.
+  
+  ![Predicción de Demanda](./ruta/a/la/imagen-generada.png)
 
-### 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [your-profile](https://www.linkedin.com/in/your-profile)
+- **Organización Integral del Gobierno de Datos**: Proyecto de gobernanza de datos para el sector de Recaudo y Cartera.
+- **Automatización de Scripts**: Desarrollo de scripts automatizados para la incorporación de nuevos datos en diferentes plataformas.
 
-### 📷 Some of My Work
-![Data Analysis](link-to-image)
-![Machine Learning](link-to-image)
+### 📜 Formación Académica
+- **Ingeniería en Ciencia de Datos** - Universidad Compensar (2024 - actualmente)
+- **Especialización en Analítica de Datos** - Politécnico Colombiano Jaime Isaza Cadavid (2023)
+- **Gestión y Producción de Cine y TV** - Universidad Manuela Beltrán
+
+### 📫 Contacto
+- **Correo electrónico**: [nicolasfajardodaza@gmail.com](mailto:nicolasfajardodaza@gmail.com)
+- **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolás-fajardo-daza)
 
 ---
 
-Thanks for visiting my profile! Explore my repositories and connect with me if you have any questions or collaboration opportunities.
+### 📷 Mi Trabajo
+Explora algunos de mis repositorios y contribuciones:
+
+- [**Pruebas Técnicas DS**](link-to-repository): Colección de pruebas técnicas recopiladas durante mi proceso de Data Science.
+- [**ML Clasificación de Imagen**](link-to-repository): Algoritmo de clasificación de imágenes InceptionV3 en dos versiones.
+- [**Data Science Aplicada**](link-to-repository): Ejercicios prácticos aplicando ciencia de datos para resolver problemas reales.
+- [**Registro de Migración de Datos**](link-to-repository): Scripts y herramientas para la migración y análisis de datos.
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=dark)
+![Los Mejores Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=dark)
+
+---
+
+Gracias por visitar mi perfil. Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contactarme.
 
 
 
