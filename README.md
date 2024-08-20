@@ -2,8 +2,8 @@
                                      👋 Hello world, I’m @ Fredy Fernandez
                                   👀 Data Science & Bussines Analytic Enthusiast 🚀 
                                         🧠  Machine learning / Python /Power BI
-                 Soy Ingeniero Industrial en transición hacia el mundo de la ciencia de datos y el análisis, 
-                              con un interés creciente en el desarrollo de software.
+                 Soy Ingeniero Industrial en transición hacia el campo de la ciencia de datos y el análisis, 
+                               con un interés creciente en el desarrollo de software
   
 
 
