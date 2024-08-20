@@ -45,8 +45,10 @@ Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de
 
 ### 🎓 Educación
 - **Pregrado en Ingeniería Industrial** en la Universidad de Pamplona, Colombia (2018-2023).
+### 🎓 Certificaciones y Cursos 
 - **Diplomado en Programación Python** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira (200 horas).
-- **Diplomado en Programación Básica Java** y **Desarrollo de Software** en Anbisa (200 horas).
+- **Diplomado en Programación Básica Java** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira(200 horas).
+- **Diplomado Desarrollo de Software** Universidad Tecnológica de Pereira(200 horas).
 - **Curso de Desarrollo Web** en el programa Misión TIC 2022 (800 horas).
 
 ### 🌟 Acerca de mí
