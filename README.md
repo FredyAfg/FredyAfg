@@ -4,7 +4,7 @@ Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos
 
 ## 🛠️ Habilidades y Tecnologías
 
-- **🔍 Lenguajes de Programación:** ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+- **🔍** ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 - 
 - **📊 Análisis de Datos:** ![Pandas](https://img.shields.io/badge/-Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 - 
