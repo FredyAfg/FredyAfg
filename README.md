@@ -20,6 +20,13 @@
 ### 🌱 Actualmente estoy aprendiendo...
 - **Ingeniería de Datos en la Nube:** Desarrollo de soluciones en Google Cloud.
 - **Machine Learning:** Aplicaciones avanzadas en predicción de series temporales.
+- **Clasificación de Imágenes y Detección de Objetos.**
+- **Estructuras de HTML, CSS y JavaScript.**
+- **Spring Boot.**
+
+Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de productos de bicicletas.
+
+
 
 ### 🚀 Proyectos Destacados
 - **Predicción de Demanda de Producción y Exportación de Café:** 
