@@ -1,4 +1,4 @@
-## ¡Hola! Soy Fredy Alonso Fernández Gelvez 👋
+## ¡Hola! Soy Fredy Fernandez👋
 
 Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos y el análisis, con un interés creciente en el desarrollo de software. Actualmente, estoy liderando un proyecto de predicción de demanda de producción y exportación de café colombiano usando inteligencia artificial.
 
