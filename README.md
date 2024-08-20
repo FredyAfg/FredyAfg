@@ -1,65 +1,41 @@
-## Hi there 👋
+## ¡Hola! Soy Fredy Alonso Fernández Gelvez 👋
 
-Welcome to my GitHub profile! I'm an industrial engineer transitioning into data science and software development.
+Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos y el análisis, con un interés creciente en el desarrollo de software. Actualmente, estoy liderando un proyecto de predicción de demanda de producción y exportación de café colombiano usando inteligencia artificial.
 
-### 🚀 About Me
-Soy **Data Scientist** con orientación al mundo empresarial y con más de dos años de experiencia en la resolución de problemas mediante la analítica de datos. Actualmente, me encuentro en formación como **Ingeniero de Datos en la nube ☁️** y liderando un proyecto de migración de datos para una gran compañía de seguros en Colombia.
+### 🛠️ Habilidades y Tecnologías
+- **Lenguajes de Programación:** Python
+- **Análisis de Datos:** Pandas, NumPy, Matplotlib
+- **Desarrollo de Modelos:** TensorFlow, Keras
+- **Bases de Datos:** PostgreSQL
+- **Herramientas en la Nube:** Google Cloud Platform (GCP)
+- **Otras:** Git, GitHub
 
-### 📈 Habilidades y Tecnologías
-- **Lenguajes**: Python, SQL
-- **Tecnologías**: Google Cloud Platform (GCP), PostgreSQL, Apache Solr, Linux
-- **Machine Learning**: Redes Neuronales, Regresión, Clustering
-- **Visualización de Datos**: Metabase
-- **Metodologías**: Agile, DevOps
-- **Certificaciones**:
-  - Fundamentos de Google Cloud: infraestructura básica - Coursera (2024)
-  - Dominio de la ciencia de datos de Python - DS4B (2023)
-  - Curso avanzado de estadística bayesiana con Python
+### 🌱 Actualmente estoy aprendiendo...
+- **Ingeniería de Datos en la Nube:** Desarrollo de soluciones en Google Cloud.
+- **Machine Learning:** Aplicaciones avanzadas en predicción de series temporales.
 
-### 🏢 Experiencia Profesional
+### 🚀 Proyectos Destacados
+- **Predicción de Demanda de Producción y Exportación de Café:** 
+  ![Predicción de Demanda de Café](https://your-image-url-here.com)
+  Proyecto centrado en predecir la demanda utilizando datos históricos, variables económicas y climáticas. El modelo emplea LSTM para capturar tendencias a largo plazo y mejorar la precisión de las predicciones.
 
-#### **Empresa 1 (FEB-2023 - NOV-2023)**
-- **Proyecto POSITIVA**: Transformación y análisis de datos para el sector de Recaudo y Cartera, desarrollo de modelos de Machine Learning.
-- **Proyecto POLITICA**: Análisis de sentimientos y estadísticas descriptivas basadas en datos de redes sociales.
-- **Proyecto CNE**: Visualización de datos financieros en Metabase.
+### 📊 Estadísticas de GitHub
 
-#### **Empresa 2 (NOV-2023 - Actualidad)**
-- **Proyecto POSITIVA SGDA**: Proceso ETL de migración de datos a GCP [80 Terabytes] automatizado con Python y PostgreSQL, versionamiento en Azure DevOps y GitHub, e indexado en Apache Solr.
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FredyAfg&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FredyAfg&layout=compact&theme=radical)
 
-### 📊 Proyectos Destacados
+### 📫 Cómo contactarme
+- **Correo:** [fredya.fernandez22@gmail.com](mailto:fredya.fernandez22@gmail.com)
+- **LinkedIn:** [Fredy Alonso Fernández Gelvez](https://www.linkedin.com/in/fredy-alonso-fernandez-gelvez-b84b28b7/)
+- **GitHub:** [FredyAfg](https://github.com/FredyAfg)
 
-- **Predicción de Demanda de Café Colombiano**: Implementación de modelos LSTM para predecir la producción y exportación de café colombiano, usando técnicas avanzadas de machine learning.
-  
-  ![Predicción de Demanda](./ruta/a/la/imagen-generada.png)
-
-- **Organización Integral del Gobierno de Datos**: Proyecto de gobernanza de datos para el sector de Recaudo y Cartera.
-- **Automatización de Scripts**: Desarrollo de scripts automatizados para la incorporación de nuevos datos en diferentes plataformas.
-
-### 📜 Formación Académica
-- **Ingeniería en Ciencia de Datos** - Universidad Compensar (2024 - actualmente)
-- **Especialización en Analítica de Datos** - Politécnico Colombiano Jaime Isaza Cadavid (2023)
-- **Gestión y Producción de Cine y TV** - Universidad Manuela Beltrán
-
-### 📫 Contacto
-- **Correo electrónico**: [nicolasfajardodaza@gmail.com](fredya.fernandez22@gmail.com)
-- **LinkedIn**: [Nicolás Fajardo Daza](https://www.linkedin.com/in/nicolás-fajardo-daza)
+### 🌟 Acerca de mí
+Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de transformar grandes volúmenes de datos en información valiosa para la toma de decisiones. Disfruto colaborar en proyectos que impulsan la eficiencia y el crecimiento de las organizaciones.
 
 ---
 
-### 📷 Mi Trabajo
-Explora algunos de mis repositorios y contribuciones:
+¡Gracias por visitar mi perfil!
 
-- [**Pruebas Técnicas DS**](link-to-repository): Colección de pruebas técnicas recopiladas durante mi proceso de Data Science.
-- [**ML Clasificación de Imagen**](link-to-repository): Algoritmo de clasificación de imágenes InceptionV3 en dos versiones.
-- [**Data Science Aplicada**](link-to-repository): Ejercicios prácticos aplicando ciencia de datos para resolver problemas reales.
-- [**Registro de Migración de Datos**](link-to-repository): Scripts y herramientas para la migración y análisis de datos.
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=N1colasFD&show_icons=true&theme=dark)
-![Los Mejores Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=N1colasFD&layout=compact&theme=dark)
-
----
-
-Gracias por visitar mi perfil. Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contactarme.
 
 
 
