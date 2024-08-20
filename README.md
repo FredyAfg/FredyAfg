@@ -1,4 +1,9 @@
-## ¡Hola! Soy Fredy Fernandez👋
+
+                                   👋 Hello world, I’m @ Fredy Fernandez
+                                👀 Data Science & Bussines Analytic Enthusiast 🚀 
+                                      🧠  Machine learning / Python /Power BI
+                     Data Science con orientación al mundo empresarial y negocios en general 
+          para la resolución de problemas y generación de propuestas mediante la analítica de datos.
 
 Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos y el análisis, con un interés creciente en el desarrollo de software. Actualmente, estoy liderando un proyecto de predicción de demanda de producción y exportación de café colombiano usando inteligencia artificial.
 
