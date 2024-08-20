@@ -12,8 +12,6 @@ Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos
 - **🛠️** ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 - **📈** ![Excel](https://img.shields.io/badge/-Excel-%234C9C2A.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-%2329A3F5.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
-
-
 ### 🌱 Actualmente estoy aprendiendo...
 - **Ingeniería de Datos en la Nube:** Desarrollo de soluciones en Google Cloud.
 - **Machine Learning:** Aplicaciones avanzadas en predicción de series temporales.
@@ -33,13 +31,17 @@ Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos
 - **LinkedIn:** [Fredy Alonso Fernández Gelvez](https://www.linkedin.com/in/fredy-alonso-fernandez-gelvez-b84b28b7/)
 - **GitHub:** [FredyAfg](https://github.com/FredyAfg)
 
+### 🎓 Educación
+- **Pregrado en Ingeniería Industrial** en la Universidad de Pamplona, Colombia (2018-2023).
+- **Diplomado en Programación Python** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira (200 horas).
+- **Diplomado en Programación Básica Java** y **Desarrollo de Software** en Anbisa (200 horas).
+- **Curso de Desarrollo Web** en el programa Misión TIC 2022 (800 horas).
+
 ### 🌟 Acerca de mí
 Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de transformar grandes volúmenes de datos en información valiosa para la toma de decisiones. Disfruto colaborar en proyectos que impulsan la eficiencia y el crecimiento de las organizaciones.
 
 ---
 
 ¡Gracias por visitar mi perfil!
-
-
 
 
