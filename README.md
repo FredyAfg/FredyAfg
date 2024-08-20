@@ -2,13 +2,15 @@
 
 Soy un Ingeniero Industrial en transición hacia el mundo de la ciencia de datos y el análisis, con un interés creciente en el desarrollo de software. Actualmente, estoy liderando un proyecto de predicción de demanda de producción y exportación de café colombiano usando inteligencia artificial.
 
-### 🛠️ Habilidades y Tecnologías
-- **Lenguajes de Programación:** Python
-- **Análisis de Datos:** Pandas, NumPy, Matplotlib
-- **Desarrollo de Modelos:** TensorFlow, Keras
-- **Bases de Datos:** PostgreSQL
-- **Herramientas en la Nube:** Google Cloud Platform (GCP)
-- **Otras:** Git, GitHub
+## 🛠️ Habilidades y Tecnologías
+
+- **🔍 Lenguajes de Programación:** ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+- **📊 Análisis de Datos:** ![Pandas](https://img.shields.io/badge/-Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+- **🔬 Desarrollo de Modelos:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+- **🗄️ Bases de Datos:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- **☁️ Herramientas en la Nube:** ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- **🛠️ Otros:** ![Git](https://img.shields.io/badge/-Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🌱 Actualmente estoy aprendiendo...
 - **Ingeniería de Datos en la Nube:** Desarrollo de soluciones en Google Cloud.
