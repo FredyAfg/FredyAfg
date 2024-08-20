@@ -26,8 +26,7 @@ Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de
 
 ### 🚀 Proyectos Destacados
 - **Predicción de Demanda de Producción y Exportación de Café:** 
-  ![Predicción de Demanda de Café](https://drive.google.com/uc?id=1xdqaoX9lhgPLvdsOpMZwTX-UPLSONxX2)
-  Proyecto centrado en predecir la demanda utilizando datos históricos, variables económicas y climáticas. El modelo emplea LSTM para capturar tendencias a largo plazo y mejorar la precisión de las predicciones.
+
 
 ### 📊 Estadísticas de GitHub
 
@@ -40,14 +39,14 @@ Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de
 - **GitHub:** [FredyAfg](https://github.com/FredyAfg)
 
 ### 🎓 Educación
-- **Pregrado en Ingeniería Industrial** en la Universidad de Pamplona, Colombia (2018-2023).
+- **Pregrado en Ingeniería Industrial** en la Universidad de Pamplona, Colombia
 
 ### 🎓 Certificaciones y Cursos 
 - **Diplomado en Programación Python** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira (200 horas).
 - **Diplomado en Programación Básica Java** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira (200 horas).
 - **Diplomado en Desarrollo de Software** en el programa Misión TIC 2022, Universidad Tecnológica de Pereira (200 horas).
-- **Curso de Desarrollo Web** en el programa Misión TIC 2022 (800 horas).
-- **Fundamentos de Analítica de Datos** - [Certificación](https://www.credential.net/07d27ece-04cf-4c87-95aa-562ac9d22831)
+- **Curso de Desarrollo Web** en el programa Misión TIC 2022 (800 horas). -[Certificación](https://drive.google.com/file/d/1S-cmHimoAeBm_G9ELKN-FmtasyK4kp0V/view?usp=sharing)
+- ** DS4A/ Colombia Fundamentos de Analítica de Datos** - [Certificación](https://www.credential.net/07d27ece-04cf-4c87-95aa-562ac9d22831)
 
 ### 🌟 Acerca de mí
 Soy un apasionado de la ciencia de datos, siempre en busca de nuevas maneras de transformar grandes volúmenes de datos en información valiosa para la toma de decisiones. Disfruto colaborar en proyectos que impulsan la eficiencia y el crecimiento de las organizaciones.
