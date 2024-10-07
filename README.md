@@ -21,7 +21,7 @@
 
 
 ### 🌱 Actualmente estoy aprendiendo...
-- **Ingeniería de Datos en la Nube:** Desarrollo de soluciones en Google Cloud.
+- **Análisis de datos con Google.
 - **Machine Learning:** Aplicaciones avanzadas en predicción de series temporales.
 - **Clasificación de Imágenes y Detección de Objetos.**
 - **Estructuras de HTML, CSS y JavaScript.**
