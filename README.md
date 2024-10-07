@@ -21,11 +21,11 @@
 
 
 ### 🌱 Actualmente estoy aprendiendo...
-- **Análisis de datos con Google.
+- Análisis de datos con Google.
 - **Machine Learning:** Aplicaciones avanzadas en predicción de series temporales.
-- **Clasificación de Imágenes y Detección de Objetos.**
-- **Estructuras de HTML, CSS y JavaScript.**
-- **Spring Boot.**
+- Clasificación de Imágenes y Detección de Objetos.
+- Estructuras de HTML, CSS y JavaScript.
+- Spring Boot.
 
 Además, estoy trabajando en el desarrollo de un **e-commerce** para la venta de productos de bicicletas.
 
