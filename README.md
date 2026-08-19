@@ -76,12 +76,12 @@ limpieza, consolidación y visualización de datos.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FredyAfg&show_icons=true&theme=radical&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FredyAfg&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/username=FredyAfg&layout=compact&theme=radical&hide_border=true)
 
 
 ### 📫 Cómo contactarme
 
-- **Correo:** [fredya.fernandez22@gmail.com](mailto:fredy.afernandez22@gmail.com)
+- **Correo:** [fredya.fernandez22@gmail.com](mailto:fredya.fernandez22@gmail.com)
 - **LinkedIn:** [Fredy Alonso Fernández Gelvez](https://www.linkedin.com/in/fredy-alonso-fernandez-gelvez-b84b28b7/)
 - **GitHub:** [FredyAfg](https://github.com/FredyAfg)
 
