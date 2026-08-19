@@ -72,8 +72,11 @@ limpieza, consolidación y visualización de datos.
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FredyAfg&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FredyAfg&layout=compact&theme=radical)
+
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FredyAfg&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FredyAfg&layout=compact&theme=radical&hide_border=true)
 
 
 ### 📫 Cómo contactarme
