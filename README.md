@@ -49,7 +49,7 @@ para apoyar la toma de decisiones mediante herramientas de análisis, visualizac
 - Arquitectura Medallion
 - Delta Lake
 - Procesamiento de datos con Apache Spark
-- SQL avanzado
+- SQL Básico
 
 
 ### 🚀 Proyectos Destacados
@@ -81,7 +81,7 @@ limpieza, consolidación y visualización de datos.
 
 ### 📫 Cómo contactarme
 
-- **Correo:** [fredya.fernandez22@gmail.com](mailto:fredy.afernandez22@gmail.com)
+- **Correo:** [fredy.afernandez22@gmail.com](mailto:fredy.afernandez22@gmail.com)
 - **LinkedIn:** [Fredy Alonso Fernández Gelvez](https://www.linkedin.com/in/fredy-alonso-fernandez-gelvez-b84b28b7/)
 - **GitHub:** [FredyAfg](https://github.com/FredyAfg)
 
